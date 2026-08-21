@@ -1,0 +1,10 @@
+{
+  "YOUR_NAME/YOUR_REPO_NAME": {
+    "thread_id": "YOUR_DISCORD_THREAD_ID",
+    "branch": "main"
+  },
+  "YOUR_NAME/YOUR_OTHER_REPO": {
+    "channel_id": "YOUR_DISCORD_CHANNEL_ID",
+    "branches": ["main", "release"]
+  }
+}
